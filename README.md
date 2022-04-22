@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://wallpaperaccess.com/full/5304871.jpg" alt="chitoge" border="0"></a>
 
-# **Chitoge : A WhatsApp BOT WITH RICH ANIME FEATURES**
+# **Miles Morales : A WHATSAPP BOT CREATED BY RONEN WITH RICH ANIME FEATURES**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
@@ -32,7 +32,7 @@
 ## 🍥 Features of the Repo
 
 -   To view all features, click
-    here➡️[Chitoge_featuresList.md](https://github.com/ShineiIchijo/Chitoge/blob/main/Features.md)
+    here➡️[Miles Morales_featuresList.md](https://github.com/ShineiIchijo/Chitoge/blob/main/Features.md)
 
 ## 💪 Contribution
 
@@ -49,7 +49,7 @@
 
 ### 🟢 WhatsApp Group
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlGNyRC9TMI07r1Fvt9fTU)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hooxu1kZEoFKoNpdFLqXMO)
 
 ## 📄 License
 
