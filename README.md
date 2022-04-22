@@ -43,8 +43,7 @@
 ##  🚀 Our Amazing Contributors
 
 <a href="https://github.com/Ronen6999">
-  <img src="https://contrib.rocks/image?repo=ShineiIchijo/Chitoge" />
-</a>
+
 
 
 ### 🟢 WhatsApp Group
