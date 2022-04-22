@@ -103,7 +103,7 @@ export default class Command extends BaseCommand {
     }
     return void M.reply(
       await this.client.getBuffer(
-        "https://wallpapermemory.com/uploads/711/chitoge-kirisaki-wallpaper-full-hd-323316.jpg"
+        "https://i.ibb.co/5sLmWY1/IMG-20220422-211253.jpg"
       ),
       MessageType.image,
       undefined,
