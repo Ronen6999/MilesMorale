@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://wallpaperaccess.com/full/5304871.jpg" alt="chitoge" border="0"></a>
+<a href="https://i.ibb.co/5sLmWY1/IMG-20220422-211253.jpg"><img src="https://wallpaperaccess.com/full/5304871.jpg" alt="chitoge" border="0"></a>
 
 # **Miles Morales : A WHATSAPP BOT CREATED BY RONEN WITH RICH ANIME FEATURES**
 
