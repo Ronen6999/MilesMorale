@@ -46,7 +46,7 @@ export default class Command extends BaseCommand {
 			.filter((v) => v);
 		for (let i = 0; i < chats.length; i++) {
 			const text = `*🌟「 MILES MORALES BROADCAST 」🌟*\n\n${term}\n\n Regards ~ *${M.sender.username}*`;
-			this.client.sendMessage(chats[i], { url: selected }, MessageType.gif, {
+			this.client.sendMessage(chats[i], { url: selected }, MessageType.video, {
 				caption: `${text}`,
 				contextInfo: {
 					mentionedJid: M.groupMetadata?.participants.map((user) => user.jid),
