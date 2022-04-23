@@ -45,14 +45,16 @@ export default class Command extends BaseCommand {
       }
       let text = `👋🏻 (🔥^🔥) Yo! Whatsup! *@${
         user.split("@")[0]
-      }*, I'm Miles Morales.\n\nMy prefix is - "${
+      }*, I'm Miles Morales.
+      *Developer* : Team Aries♈
+      \n\nMy prefix is - "${
         this.client.config.prefix
       }"\n\nThe usable commands are listed below.\n\n`;
       const keys = Object.keys(categories);
       for (const key of keys)
         text += `*━━━❰ ${this.client.util.capitalize(
           key
-        )} ❱━━━*\n\`\`\`${categories[key]
+        )} 🎗️*\n\`\`\`${categories[key]
           .map((command) => command.config?.command)
           .join(", ")}\`\`\`\n\n`;
       return void this.client.sendMessage(
